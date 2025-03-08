@@ -1,4 +1,10 @@
-## Hello, this is my readME.
+### **Ways to reach me**
+
+- Mail: harshitverma933@gmail.com
+- Discord: @harshitv
+- X: https://x.com/harshiittxd
+
+### Open for rust/bitcoin roles
 
 [![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshit933)](https://github.com/anuraghazra/github-readme-stats)
 
